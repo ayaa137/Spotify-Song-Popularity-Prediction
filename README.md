@@ -37,6 +37,19 @@ The project includes:
 - Feature importance analysis
 - Limitations and interpretation
 
+## 📦 Dataset
+
+The analysis uses the **Spotify Dataset 1921–2020, 160k+ Tracks**, publicly available on Kaggle.
+
+- **Source:** Kaggle
+- **Dataset:** Spotify Dataset 1921–2020, 160k+ Tracks
+- **Dataset creator:** Yamaç Eren Ay
+- **Original dataset:** [View on Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-1921-2020-160k-tracks)
+
+The dataset contains historical Spotify tracks and includes song popularity, release information, and audio characteristics such as acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, and valence.
+
+The dataset is used for educational and portfolio purposes, with attribution to the original Kaggle source.
+
 ## 🤖 Machine Learning Results
 
 | Model | MAE | RMSE | R² |
