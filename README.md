@@ -88,7 +88,7 @@ Spotify-Song-Popularity-Prediction/
 
 An interactive project website provides a concise overview of the analysis, key findings, and model performance.
 
-**Live website:** Coming soon via GitHub Pages.
+**Live website:** [View the live project website](https://ayaa137.github.io/Spotify-Song-Popularity-Prediction/)
 
 ## 📓 Full Analysis
 
